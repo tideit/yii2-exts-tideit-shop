@@ -1,0 +1,14 @@
+{
+    "name": "tideit/tideit-shop",
+    "authors": [
+        {
+            "name": "ted li"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "TideitShop": "src/"
+        }
+    }
+}
